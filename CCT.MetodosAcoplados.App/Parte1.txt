@@ -1,0 +1,9 @@
+﻿CCT - Métodos acoplados (dependências fixas)
+=============================================
+
+- Como esse conhecimento te ajuda?
+  - entender porque o acoplamento dificulta os testes
+  - aprender a desacoplar
+  - vai escrever código melhor
+
+- Mostrar código

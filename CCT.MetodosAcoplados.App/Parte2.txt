@@ -1,0 +1,16 @@
+﻿CCT - Métodos acoplados (dependências fixas)
+=============================================
+
+- Como esse conhecimento te ajuda?
+  - entender porque o acoplamento dificulta os testes
+  - aprender a desacoplar
+  - vai escrever código melhor
+
+- Mostrar código
+
+- Por que é um problema?
+  - o código vira um blocão único
+  - métodos grandes que fazem coisas demais
+  - testes também ficam grandes e confusos
+  - ninguém sabe testar (ou não quer)
+
